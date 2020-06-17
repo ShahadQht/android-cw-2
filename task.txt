@@ -1,0 +1,14 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+    
+      number();
+}
+       public static void number(){
+       
+   for(int i=1; 1<11; i++){
+        System.out.println(i);
+       }  
+         
+     }
+}
